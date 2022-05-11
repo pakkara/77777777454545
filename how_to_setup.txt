@@ -1,0 +1,17 @@
+
+
+===========================
+If you are using XAMPP
+
+Open the path.
+http://127.0.0.1/phpmyadmin
+
+Create a database named "hyper" and import the users.sql file
+
+Now open the checker and boom!
+
+Default Password is "hyperop" you can change via phpmyadmin
+
+Thanks 
+Regards Hyper Community
+===============================

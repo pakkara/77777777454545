@@ -1,0 +1,7 @@
+{
+    "name": "xray-heroku",
+    "description": "deploy xray to heroku",
+    "keywords": ["xray"],
+    "repository": "https://github.com/pakkara/77777777454545",
+    "stack": "container"
+}
